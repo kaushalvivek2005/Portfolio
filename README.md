@@ -3,9 +3,31 @@
 A responsive personal portfolio website built using HTML5 and CSS3 to showcase my education, internship experience, technical skills, projects, and contact information.
 
 ---
+## 📸 Screenshots
 
-## 📸 Preview
-![alt text](preview.png)
+### 🏠 Home
+![Home](screenshots/home.png)
+
+### 👤 About
+![About](screenshots/about.png)
+
+### 🎓 Education
+![Education](screenshots/education.png)
+
+### 💼 Internship
+![Internship](screenshots/internship.png)
+
+### 🛠 Skills
+![Skills](screenshots/skills.png)
+
+### 🎯 Interests
+![Interests](screenshots/interests.png)
+
+### 📂 Projects
+![Projects](screenshots/projects.png)
+
+### 📞 Contact
+![Contact](screenshots/contact.png)
 
 ---
 
